@@ -1,0 +1,4 @@
+model,cv_auc_roc,test_auc_roc,f1,precision,recall,best_params
+Random Forest,0.8456544167352359,0.8412978893797308,0.6114494518879415,0.5615212527964206,0.6711229946524064,"{""model__max_depth"": 10, ""model__min_samples_leaf"": 5, ""model__n_estimators"": 250}"
+XGBoost,0.8469111346763736,0.8377832028727168,0.6078947368421053,0.5984455958549223,0.6176470588235294,"{""model__colsample_bytree"": 0.85, ""model__learning_rate"": 0.08, ""model__max_depth"": 2, ""model__n_estimators"": 250, ""model__subsample"": 0.85}"
+Logistic Regression,0.8432006051478123,0.8357436255134465,0.6229166666666667,0.5102389078498294,0.7994652406417112,"{""model__C"": 2.0, ""model__class_weight"": null}"

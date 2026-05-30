@@ -1,0 +1,51 @@
+feature,mean_abs_shap
+subscription_plan_Monthly,0.5548552
+subscription_months,0.45024016
+streaming_quality_Ultra HD,0.3815561
+payment_method_Electronic check,0.26906592
+kids_profile_No,0.19748825
+digital_billing_Yes,0.19255638
+subscription_plan_Two-Year,0.19099413
+shared_profiles_Multiple,0.17888334
+premium_support_No,0.16775724
+streaming_quality_Mobile only,0.13880794
+account_security_No,0.12906332
+live_tv_package_Yes,0.12546259
+kids_profile_Yes,0.1026923
+subscription_value_ratio,0.09912298
+movie_package_Yes,0.09836814
+views_per_week,0.09350162
+gender_Male,0.084020175
+total_spent,0.076571435
+gender_Female,0.07477275
+monthly_subscription_fee,0.07404611
+premium_support_Yes,0.07388801
+shared_profiles_Single,0.06713147
+family_account_No,0.065977864
+average_watch_time,0.06398329
+family_account_Yes,0.06350078
+favorite_genre_Drama,0.055608604
+movie_package_No,0.049926378
+favorite_genre_Documentary,0.049119297
+offline_downloads_No,0.04730885
+device_protection_Yes,0.03861272
+subscription_plan_Annual,0.036304127
+digital_billing_No,0.034053154
+favorite_genre_Reality,0.032662205
+favorite_genre_Comedy,0.032035615
+live_tv_package_No,0.03075818
+favorite_genre_Sports,0.030478334
+mobile_access_No,0.029614415
+number_of_devices,0.028954677
+device_protection_No,0.027029324
+favorite_genre_Kids,0.025115144
+favorite_genre_Action,0.020998614
+payment_method_Bank transfer (automatic),0.01983835
+engagement_score,0.015909271
+payment_method_Credit card (automatic),0.015623491
+payment_method_Mailed check,0.0155664105
+offline_downloads_Yes,0.014152482
+account_security_Yes,0.011499874
+senior_subscriber,0.003649298
+streaming_quality_Standard HD,0.0017630364
+mobile_access_Yes,0.0014182142

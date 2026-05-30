@@ -1,0 +1,51 @@
+feature,importance
+subscription_plan_Monthly,0.1272930452531148
+payment_method_Electronic check,0.10005192142242153
+subscription_value_ratio,0.07392274900086411
+streaming_quality_Ultra HD,0.06178838498736274
+subscription_plan_Two-Year,0.058727662670744335
+subscription_months,0.058149807221827006
+monthly_subscription_fee,0.041284858699148455
+total_spent,0.03204086409650953
+account_security_No,0.02745402883122479
+digital_billing_Yes,0.026655820026548774
+subscription_plan_Annual,0.026546542149036716
+streaming_quality_Mobile only,0.02526820236724998
+account_security_Yes,0.02459964098292177
+digital_billing_No,0.023600981294448008
+premium_support_Yes,0.02271415674493283
+premium_support_No,0.021716812554441984
+views_per_week,0.020562656141442492
+engagement_score,0.01785711702517939
+average_watch_time,0.01731412440108499
+kids_profile_Yes,0.012243063885921836
+number_of_devices,0.01116610136089976
+streaming_quality_Standard HD,0.01083457519995895
+kids_profile_No,0.010660582876172863
+payment_method_Bank transfer (automatic),0.010434707314009447
+family_account_Yes,0.008326706748171573
+payment_method_Credit card (automatic),0.007310483482532462
+family_account_No,0.007221254040874608
+movie_package_Yes,0.007015652497334887
+offline_downloads_Yes,0.0064847325635703215
+payment_method_Mailed check,0.006283911181558304
+offline_downloads_No,0.006209859499694609
+shared_profiles_Single,0.006052135107027562
+movie_package_No,0.005957578931658549
+favorite_genre_Drama,0.005823745576109088
+shared_profiles_Multiple,0.00571481593298642
+live_tv_package_No,0.00542586330874559
+gender_Female,0.005385419898164036
+live_tv_package_Yes,0.005244086458738065
+gender_Male,0.005242636581992496
+favorite_genre_Comedy,0.005237361279889636
+favorite_genre_Documentary,0.005199010027719646
+device_protection_No,0.004978148303325601
+device_protection_Yes,0.0048567262701799604
+favorite_genre_Reality,0.0042976488854087795
+favorite_genre_Sports,0.00426252453113143
+favorite_genre_Kids,0.004031717684683091
+mobile_access_Yes,0.003276433952132236
+favorite_genre_Action,0.003130241301206373
+mobile_access_No,0.0024550226069304042
+senior_subscriber,0.0016878768407672298
